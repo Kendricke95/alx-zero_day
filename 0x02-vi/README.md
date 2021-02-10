@@ -1,0 +1,1 @@
+This directory contains exercises/project for learning vi
